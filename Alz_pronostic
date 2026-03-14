@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>ALZ_PRONO</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">ALZ_PRONO</div>
+
+<nav>
+<a href="#">Matchs prévus</a>
+<a href="#">Résultats</a>
+<a href="#">Total gains</a>
+<a href="#">Compte</a>
+</nav>
+
+<button class="login-btn">Se connecter</button>
+
+</header>
+
+
+<section class="hero">
+
+<h1>Connectez-vous pour accéder aux matchs et aux pronostics</h1>
+
+</section>
+
+
+<section class="container">
+
+
+<div class="login-box">
+
+<h2>Connexion</h2>
+
+<input type="email" placeholder="Votre email">
+
+<input type="password" placeholder="Votre mot de passe">
+
+<label class="remember">
+
+<input type="checkbox"> Se souvenir de moi
+
+</label>
+
+<button class="btn">Se connecter</button>
+
+<p class="signup">
+Vous n'avez pas encore de compte ?
+<span>S'inscrire</span>
+</p>
+
+</div>
+
+
+
+<div class="subscriptions">
+
+<h2>Choisissez votre abonnement</h2>
+
+<div class="plans">
+
+
+<div class="plan">
+
+<h3>Gratuit</h3>
+
+<p>Accès limité</p>
+
+<button>S'inscrire gratuitement</button>
+
+</div>
+
+
+
+<div class="plan">
+
+<h3>Premium 1 mois</h3>
+
+<p class="price">15€/mois</p>
+
+<button>S'abonner</button>
+
+</div>
+
+
+
+<div class="plan recommended">
+
+<span class="tag">Recommandé</span>
+
+<h3>Premium 6 mois</h3>
+
+<p class="price">10€/mois</p>
+
+<button>S'abonner</button>
+
+</div>
+
+
+
+<div class="plan">
+
+<h3>Premium 1 an</h3>
+
+<p class="price">7.50€/mois</p>
+
+<button>S'abonner</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+</body>
+
+</html>
